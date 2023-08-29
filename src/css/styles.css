@@ -1,0 +1,58 @@
+.ini{
+    height: 50vh;
+}
+
+.cover{
+    padding: 1%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-gray{background-color: #575756;}
+
+.ingresar{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.btns{
+    box-shadow: 10px 5px 10px white;
+}
+
+h2{
+    font-size: 3.0rem;
+}
+
+.card-sn{
+    background-color: #013A6B; 
+    background-color :  gray 50%;
+}
+
+#bienvenidos{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.img-bienvenidos{border-right: 1px solid black;}
+.text-bienvenidos h5{font-size: 2em;}
+.text-bienvenidos p{font-size: 1.5em; vertical-align: middle;}
+.iconos-redes{display: flex; justify-content: start; gap: 15px; margin-top: 10%;}
+.iconos-redes i{font-size: 3em;}
+
+.card-op{
+    height: 10vh;
+}
+
+.card-op img{
+    height: 100%;
+}
